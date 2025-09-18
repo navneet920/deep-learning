@@ -4,6 +4,7 @@ A complete guide to **Deep Learning** concepts starting from scratch. This repos
 
 📌 Modules
 **1. Artificial Neural Networks (ANN)**
+
     **a) Basics**
 
             What is Deep Learning?
