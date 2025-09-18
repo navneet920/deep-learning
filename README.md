@@ -130,40 +130,55 @@ A complete guide to **Deep Learning** concepts starting from scratch. This repos
 📂 Repository Structure
 Deep-Learning-From-Zero/
 │
+
 ├── 01_ANN_Basics/
 │   ├── deep_learning_intro.md
 │   ├── perceptron.ipynb
 │   ├── mlp_basics.ipynb
 │   └── training_mlp.ipynb
+
 │
+
 ├── 02_Keras_Practice/
 │   ├── regression_keras.ipynb
 │   ├── classification_keras.ipynb
 │   └── optimizers_regularization.ipynb
+
 │
+
 ├── 03_Advanced_ANN/
 │   ├── callbacks_tensorboard.ipynb
 │   ├── pretrained_models.ipynb
 │   └── streamlit_app_demo/
+
 │
+
 ├── 04_CNN/
 │   ├── cnn_basics.ipynb
 │   ├── resnet_implementation.ipynb
 │   └── transfer_learning.ipynb
+
 │
+
 ├── 05_RNN/
 │   ├── lstm_sentiment.ipynb
 │   └── seq2seq_translation.ipynb
+
 │
+
 ├── 06_GANs_Autoencoders/
 │   ├── autoencoder.ipynb
 │   ├── vae.ipynb
 │   └── gan_mnist.ipynb
+
 │
+
 ├── 07_ObjectDetection/
 │   ├── yolo_demo.ipynb
 │   └── segmentation_unet.ipynb
+
 │
+
 └── README.md
 
 🚀 Getting Started
