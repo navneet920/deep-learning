@@ -183,16 +183,9 @@ Deep-Learning-From-Zero/
 
 🚀 Getting Started
 
-Clone the repository
-
-git clone https://github.com/your-username/deep-learning-from-zero.git
-cd deep-learning-from-zero
-
-
 Install dependencies
 
 pip install -r requirements.txt
-
 
 Open Jupyter notebooks
 
